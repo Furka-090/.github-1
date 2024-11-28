@@ -1,0 +1,9 @@
+
+
+{
+     "workbench.editor.defaultBinaryEditor": "hediet.vscode-drawio",
+     "workbench.editor.enablePreviewFromCodeNavigation": true,
+     "workbench.editor.limit.value": 1,
+     "workbench.editor.pinnedTabSizing": "compact",
+     "workbench.editor.restoreViewState": false
+}
